@@ -1,7 +1,7 @@
-# i18_googlesheet
+# i18next + googlesheet with nextjs
 ---
-# i18next 다국어 번역팩을 구글시트에서 가져오는 모듈
 
+**다국어 번역팩을 구글시트에서 가져오는 모듈**
 - 현재 nextjs용에서 사용할 수 있게 수정 되어 있음(react에서랑 번역팩 경로가 다름)
 - 의존성
   - dotenv
